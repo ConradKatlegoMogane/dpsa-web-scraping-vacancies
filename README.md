@@ -3,7 +3,7 @@
 Automated scraper for South African government job vacancy circulars published by the [Department of Public Service and Administration (DPSA)](https://www.dpsa.gov.za/newsroom/psvc/).
 
 Each circular contains PDF links for 15+ national departments and 7 provincial administrations. This tool extracts those links automatically and saves them to a structured CSV file.
-
+date of extraction :19 Mar 2023
 ---
 
 ## What It Does
